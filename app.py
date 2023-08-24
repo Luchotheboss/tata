@@ -11,6 +11,7 @@ image = Image.open('gatico.png')
 st.image(image, caption= 'Interfaces multimodales')
 
 text = st.text_input("Si a bueno")
+st.write('El texto esc rito es', text)
 
 st.header("2 columnas")
 
