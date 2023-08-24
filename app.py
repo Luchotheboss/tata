@@ -6,6 +6,6 @@ st.title("Mi primera app")
 
 st.header("Aplicaciones")
 st.write("Backend y frontend")
-image = Image.open('png-transparent-cat-kitty-creative-cat-cat')
+image = Image.open('gatico.png')
 
 st.image(image, caption= 'Interfaces multimodales')
